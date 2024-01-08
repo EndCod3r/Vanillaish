@@ -1,6 +1,10 @@
 # Vanillaish
 A Minecraft modpack made to add features that could be in vanilla Minecraft.
 
+## Installation
+Vanillaish is hosted on [Modrinth](https://modrinth.com). To install Vanillaish, visit [Modrinth's documentation](https://docs.modrinth.com/docs/modpacks/playing_modpacks/) and find what launcher you want to use, the documentation shows how to use [Modrinth Launcher](https://modrinth.com/app), [ATLauncher](https://atlauncher.com/about), [MultiMC](https://multimc.org/), and [Prism Launcher](https://prismlauncher.org/) to install a modpack.
+
+
 ### A modpack made to improve vanilla Minecraft.
 
 ## Features:
